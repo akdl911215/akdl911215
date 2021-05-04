@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 https://davinci-ai.tistory.com/50
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?akdl911215=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?LEE Jung Hyun=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
