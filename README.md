@@ -18,7 +18,3 @@ Here are some ideas to get you started:
 https://davinci-ai.tistory.com/50
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdl911215)](https://github.com/anuraghazra/github-readme-stats)
-
-회원가입
-
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/76759835/122635773-b02f9880-d120-11eb-9d43-fff197799c24.gif)
