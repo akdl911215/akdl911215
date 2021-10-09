@@ -33,7 +33,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Vue-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Vue-61dafb?style=flat-square&logo=Vue&logoColor=white"/>&nbsp
   
 </p>
 
