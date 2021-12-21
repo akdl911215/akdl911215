@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 <p align="center">:books:Back_end Stack</p>
 <p align="center">
+  <img src="https://img.shields.io/badge/C-ff3000?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SpringBoot-6db33f?style=flat-square&logo=Spring&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
