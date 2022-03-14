@@ -38,7 +38,3 @@ Here are some ideas to get you started:
    <img src="https://img.shields.io/badge/Vuex-61dafb?style=flat-square&logo=Vuex&logoColor=white"/>&nbsp
   
 </p>
-
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=akdl911215)](https://github.com/anuraghazra/github-readme-stats)
