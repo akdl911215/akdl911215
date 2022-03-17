@@ -25,5 +25,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/SAGA-764ABC?style=flat-square&logo=SAGA&logoColor=green"/>&nbsp
 </p>
 
+
+
 [개발자 이정현의 블로그](https://akdl911215.tistory.com/)
+
+
 [개발자 이정현의 링크드인](https://www.linkedin.com/in/junghyun-lee-860ba522b/)
