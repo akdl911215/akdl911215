@@ -26,9 +26,7 @@ Here are some ideas to get you started:
 
 
 
-<p align="center">개발자 이정현의 블로그 : [https://akdl911215.tistory.com/](https://akdl911215.tistory.com/)</p>
+<p align="center">개발자 이정현의 블로그 : [https://akdl911215.tistory.com/]</p>
 
 
-
-
-<p align="center">개발자 이정현의 링크드인 : [https://www.linkedin.com/in/junghyun-lee-860ba522b/](https://www.linkedin.com/in/junghyun-lee-860ba522b/)</p>
+<p align="center">개발자 이정현의 링크드인 : [https://www.linkedin.com/in/junghyun-lee-860ba522b/]</p>
