@@ -20,15 +20,15 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-ff3000?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=ReactRudexSaga&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/SAGA-764ABC?style=flat-square&logo=NodeJS&logoColor=green"/>&nbsp
+  <img src="https://img.shields.io/badge/ReactRudexSaga-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/NodeJS-764ABC?style=flat-square&logo=NodeJS&logoColor=green"/>&nbsp
 </p>
 
 
 
-<center>개발자 이정현의 블로그 : [https://akdl911215.tistory.com/](https://akdl911215.tistory.com/)</center>
+<p align="center">개발자 이정현의 블로그 : [https://akdl911215.tistory.com/](https://akdl911215.tistory.com/)</p>
 
 
 
 
-<center>개발자 이정현의 링크드인 : [https://www.linkedin.com/in/junghyun-lee-860ba522b/](https://www.linkedin.com/in/junghyun-lee-860ba522b/)</center>
+<p align="center">개발자 이정현의 링크드인 : [https://www.linkedin.com/in/junghyun-lee-860ba522b/](https://www.linkedin.com/in/junghyun-lee-860ba522b/)</p>
