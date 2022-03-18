@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/C-ff3000?style=flat-square&logo=C&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Java-ff3000?style=flat-square&logo=Java&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/ReactRudexSaga-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/React-61dafb?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/NodeJS-764ABC?style=flat-square&logo=NodeJS&logoColor=green"/>&nbsp
 </p>
 
