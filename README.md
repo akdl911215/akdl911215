@@ -30,8 +30,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-#3178C6?style=flat-square&logo=typescript&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=tpyescript&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>&nbsp
