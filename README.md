@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Knex&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Knex-4FC08D?style=flat-square&logo=Knex&logoColor=white"/>&nbsp 
 </p>
 
 
