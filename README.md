@@ -46,6 +46,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Node-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/Knex-4FC08D?style=flat-square&logo=Knex&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/NestJS-ffb13b?style=flat-square&logo=NestJS&logoColor=white"/>&nbsp 
 </p>
 
 
