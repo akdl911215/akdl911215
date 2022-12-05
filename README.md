@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 
 
 <p align="center">
+  <img src="https://img.shields.io/badge/prisma-003545?style=flat-square&logo=prisma&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/MySQL-003545?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp
 </p>
