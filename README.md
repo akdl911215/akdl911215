@@ -39,6 +39,8 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/saga-3178C6?style=flat-square&logo=saga&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/thunk-3178C6?style=flat-square&logo=thunk&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Flutter-3178C6?style=flat-square&logo=flutter&logoColor=white"/>&nbsp 
+  <img src="https://img.shields.io/badge/Dart-4FC08D?style=flat-square&logo=dart.js&logoColor=white"/>&nbsp 
 </p>
 
 
