@@ -13,7 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h3> My Services </h3>
+<p align="center">개발자 이정현의 제이치스 : [https://www.jaychis.com/]</p>
 
+<h3> My Informations</h3>
 <p align="center">개발자 이정현의 링크드인 : [https://www.linkedin.com/in/junghyun-lee-860ba522b/]</p>
 
 
