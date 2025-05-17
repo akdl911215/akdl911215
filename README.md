@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h3> My Services </h3>
-<p align="center">개발자 이정현의 제이치스 : [https://www.jaychis.com/]</p>
-<p align="center">개발자 이정현의 메모 : [https://memo.jaychis.com/]</p>
-<p align="center">개발자 이정현의 계산기 : [https://calculator.jaychis.com/]</p>
+<p align="center"> jaychis : [https://www.jaychis.com/]</p>
+<p align="center"> 메모(기록하지 않으면, 그것은 단지 꿈일 뿐이다.) : [https://memo.jaychis.com/]</p>
+<p align="center"> Vintage Jaychis Calculator : [https://calculator.jaychis.com/]</p>
 <p align="center">구글 앱스토어: 제이치스</p>
-<p align="center">Vintage Jaychis Calculator : [https://calculator.jaychis.com/]</p>
+
 
 <h3> My Informations</h3>
 <p align="center">개발자 이정현의 링크드인 : [https://www.linkedin.com/in/junghyun-lee-860ba522b/]</p>
