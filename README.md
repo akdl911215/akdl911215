@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <p align="center"> jaychis : [https://www.jaychis.com/]</p>
 <p align="center"> 메모(기록하지 않으면, 그것은 단지 꿈일 뿐이다.) : [https://memo.jaychis.com/]</p>
 <p align="center"> Vintage Jaychis Calculator : [https://calculator.jaychis.com/]</p>
-<p align="center">구글 앱스토어: 제이치스</p>
+<p align="center">구글 앱스토어: QuitMate</p>
 
 
 <h3> My Informations</h3>
